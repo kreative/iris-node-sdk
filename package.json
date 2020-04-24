@@ -1,0 +1,19 @@
+{
+  "name": "iris-node-sdk",
+  "version": "1.0.0",
+  "description": "A nodejs based SDK for working with Kreative Iris. Intended for external Kreations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreative/iris-node-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kreative/iris-node-sdk/issues"
+  },
+  "homepage": "https://github.com/kreative/iris-node-sdk#readme"
+}
