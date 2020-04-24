@@ -1,7 +1,7 @@
 const path = require('path');
 const axios = require("axios");
 
-const IRIS_URL = "https://iris.kreative.im";
+const IRIS_URL = process.env.IRIS_URL || "https://iris.kreative.im";
 
 class Iris {
     
