@@ -1,7 +1,7 @@
 const path = require('path');
 const axios = require("axios");
 
-const IRIS_URL = "http://localhost:4000";
+const IRIS_URL = "https://iris.kreative.im";
 
 class Iris {
     
