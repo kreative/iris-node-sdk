@@ -1,4 +1,3 @@
-const path = require('path');
 const axios = require("axios");
 
 const IRIS_URL = process.env.IRIS_URL || "https://iris.kreative.im";
@@ -29,7 +28,6 @@ class Iris {
     };
 
     info(message, meta, tags) {
-        console.log(this.aidn);
         axios.post(`${IRIS_URL}/log`, {
             message,
             tags,
