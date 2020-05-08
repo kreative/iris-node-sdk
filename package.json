@@ -1,6 +1,6 @@
 {
   "name": "@kaynet/iris-node-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A nodejs based SDK for working with Kreative Iris. Intended for external Kreations",
   "main": "index.js",
   "scripts": {
